@@ -1,1 +1,1 @@
-![kohaku](sticker.webp)
+![kohaku](kohaku.png)
